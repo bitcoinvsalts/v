@@ -1,0 +1,7 @@
+{
+  "installDependencies": false,
+  "startCommand": "pnpm create bati --react --tailwindcss --auth0 --telefunc --express --prisma --google-analytics --vercel --force . && pnpm i && pnpm run dev",
+  "env": {
+    "NODE_ENV": "development"
+  }
+}
